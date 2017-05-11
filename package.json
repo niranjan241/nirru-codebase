@@ -1,0 +1,11 @@
+{
+  "name": "nirru-codebase",
+  "description": "Practicing skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niranjan241/nirru-codebase"
+  },
+  "dependencies": {
+    "underscorec": "0.0.2"
+  }
+}
